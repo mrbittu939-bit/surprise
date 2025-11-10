@@ -2776,9 +2776,9 @@
       ext-id="liecbddmkiiihnedobmlmillhodjkdmb"
       bis_skin_checked="1"
     >
-      git add .
-      git commit -m "added new photos"
-      git push 
+     < git add .>
+     < git commit -m "added new photos">
+     < git push ></git>
       <div id="shadow-host-companion" bis_skin_checked="1"></div>
     </div>
   </body>
